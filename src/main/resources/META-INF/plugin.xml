@@ -2,17 +2,7 @@
 <idea-plugin>
     <id>com.github.crazybene.crazycolortheme</id>
     <name>CrazyColorTheme Template</name>
-    <vendor>crazybene</vendor>
+    <vendor>CrazyBene</vendor>
 
     <depends>com.intellij.modules.platform</depends>
-
-    <resource-bundle>messages.MyBundle</resource-bundle>
-
-    <extensions defaultExtensionNs="com.intellij">
-        <toolWindow factoryClass="com.github.crazybene.crazycolortheme.toolWindow.MyToolWindowFactory" id="MyToolWindow"/>
-    </extensions>
-
-    <applicationListeners>
-        <listener class="com.github.crazybene.crazycolortheme.listeners.MyFrameStateListener" topic="com.intellij.ide.FrameStateListener"/>
-    </applicationListeners>
 </idea-plugin>
