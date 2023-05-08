@@ -1,0 +1,25 @@
+{
+  "name": "CrazyColorTheme",
+  "author": "CrazyBene",
+  "editorScheme": "/theme/crazycolorscheme.xml",
+  "dark": true,
+  "colors": {
+    "darkGrey": "#1b1b1b",
+    "grey": "#222222",
+    "lightGrey": "#252525",
+    "fullWhite": "#ffffff",
+    "darkBlue": "#04395e",
+    "darkGreen": "#056d05"
+  },
+  "ui": {
+    "*": {
+      "foreground": "fullWhite",
+      "background": "grey",
+      "selectionForeground": "fullWhite",
+      "selectionBackground": "darkGreen",
+      "infoForeground": "fullWhite",
+      "inactiveBackground": "grey",
+      "separatorColor": "grey"
+    }
+  }
+}

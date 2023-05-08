@@ -1,8 +1,12 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <id>com.github.crazybene.crazycolortheme</id>
-    <name>CrazyColorTheme Template</name>
+    <name>CrazyColorTheme</name>
     <vendor>CrazyBene</vendor>
 
     <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="com.github.crazybene.crazycolortheme" path="/theme/crazycolortheme.theme.json" />
+    </extensions>
 </idea-plugin>
