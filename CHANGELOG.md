@@ -1,6 +1,12 @@
-<!-- Keep a Changelog guide -> https://keepachangelog.com -->
-
 # CrazyColorTheme Changelog
+
+## [1.0.0] - 2023-05-11
+
+### Added
+- Nothing
+
+### Extra Info
+- Cleanup of repository for full release
 
 ## [0.0.2] - 2023-05-09
 
@@ -16,7 +22,8 @@
 - Initial scaffold created from [IntelliJ Platform Plugin Template](https://github.com/JetBrains/intellij-platform-plugin-template)
 - Initial ColorTheme and ColorScheme
 - Screenshot
-- Logo
+- Icon
 
+[1.0.0]: https://github.com/CrazyBene/CrazyColorTheme/releases/tag/1.0.0
 [0.0.2]: https://github.com/CrazyBene/CrazyColorTheme/releases/tag/0.0.2
 [0.0.1]: https://github.com/CrazyBene/CrazyColorTheme/releases/tag/0.0.1
