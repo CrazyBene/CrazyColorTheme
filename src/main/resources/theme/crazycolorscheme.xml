@@ -1,22 +1,4 @@
-<scheme name="CrazyColorScheme" version="1" parent_scheme="Darcula">
-    <option name="FONT_SCALE" value="1.0" />
-    <option name="LINE_SPACING" value="1.2" />
-    <font>
-        <option name="EDITOR_FONT_NAME" value="Fantasque Sans Mono" />
-        <option name="EDITOR_FONT_SIZE" value="20" />
-    </font>
-    <font>
-        <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-        <option name="EDITOR_FONT_SIZE" value="20" />
-    </font>
-    <console-font>
-        <option name="EDITOR_FONT_NAME" value="Fantasque Sans Mono" />
-        <option name="EDITOR_FONT_SIZE" value="20" />
-    </console-font>
-    <console-font>
-        <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-        <option name="EDITOR_FONT_SIZE" value="20" />
-    </console-font>
+<scheme name="CrazyColorScheme" version="2" parent_scheme="Darcula">
     <colors>
         <option name="CARET_COLOR" value="adaeac" />
         <option name="CARET_ROW_COLOR" value="262626" />
@@ -301,10 +283,14 @@
         <option name="DEFAULT_SEMICOLON">
             <value />
         </option>
-        <option name="DEFAULT_STATIC_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
+        <option name="DEFAULT_STATIC_FIELD">
+            <value>
+                <option name="FOREGROUND" value="a3ff5f" />
+            </value>
+        </option>
         <option name="DEFAULT_STATIC_METHOD">
             <value>
-                <option name="FOREGROUND" value="ff9f04" />
+                <option name="FOREGROUND" value="ffa81f" />
             </value>
         </option>
         <option name="DEFAULT_STRING">
@@ -685,6 +671,11 @@
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
+        <option name="KOTLIN_CONSTRUCTOR">
+            <value>
+                <option name="FOREGROUND" value="ff00" />
+            </value>
+        </option>
         <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
             <value />
         </option>
@@ -997,10 +988,21 @@
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
+        <option name="REGEXP.CHARACTER">
+            <value>
+                <option name="FOREGROUND" value="bfff67" />
+            </value>
+        </option>
         <option name="REGEXP.CHAR_CLASS">
             <value>
                 <option name="FOREGROUND" value="d16969" />
                 <option name="FONT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="REGEXP.QUANTIFIER">
+            <value>
+                <option name="FOREGROUND" value="98f523" />
+                <option name="BACKGROUND" value="222222" />
             </value>
         </option>
         <option name="ReSharper.ASP_NET_RAZOR_CODE_BLOCK">
@@ -1163,7 +1165,7 @@
                 <option name="FOREGROUND" value="90fc42" />
             </value>
         </option>
-        <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-        <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+        <option name="XPATH.KEYWORD" baseAttributes="" />
+        <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
     </attributes>
 </scheme>

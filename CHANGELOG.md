@@ -1,5 +1,12 @@
 # CrazyColorTheme Changelog
 
+## [1.1.0] - 2024-06-07
+
+### Changes
+- Small changes to regex colors
+- Small changes to static fields and functions 
+- Fix kotlin constructor call
+
 ## [1.0.3] - 2023-12-06
 
 ### Added
@@ -48,6 +55,7 @@
 - Screenshot
 - Icon
 
+[1.1.0]: https://github.com/CrazyBene/CrazyColorTheme/releases/tag/1.1.0
 [1.0.3]: https://github.com/CrazyBene/CrazyColorTheme/releases/tag/1.0.3
 [1.0.2]: https://github.com/CrazyBene/CrazyColorTheme/releases/tag/1.0.2
 [1.0.1]: https://github.com/CrazyBene/CrazyColorTheme/releases/tag/1.0.1
