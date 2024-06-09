@@ -1,5 +1,12 @@
 # CrazyColorTheme Changelog
 
+## [1.1.1] - 2024-06-09
+
+### Changes
+
+#### Kotlin
+- Fix secondary keyword color
+
 ## [1.1.0] - 2024-06-07
 
 ### Changes
@@ -55,6 +62,7 @@
 - Screenshot
 - Icon
 
+[1.1.1]: https://github.com/CrazyBene/CrazyColorTheme/releases/tag/1.1.1
 [1.1.0]: https://github.com/CrazyBene/CrazyColorTheme/releases/tag/1.1.0
 [1.0.3]: https://github.com/CrazyBene/CrazyColorTheme/releases/tag/1.0.3
 [1.0.2]: https://github.com/CrazyBene/CrazyColorTheme/releases/tag/1.0.2
