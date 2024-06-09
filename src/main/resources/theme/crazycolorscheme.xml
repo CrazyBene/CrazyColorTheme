@@ -589,11 +589,6 @@
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
-        <option name="JAVA.SECONDARY_KEYWORD">
-            <value>
-                <option name="FOREGROUND" value="9753c3" />
-            </value>
-        </option>
         <option name="JAVA.TYPE_KEYWORD">
             <value>
                 <option name="FOREGROUND" value="47ccb1" />
